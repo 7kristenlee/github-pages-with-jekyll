@@ -8,6 +8,10 @@ description: > # this means to ignore newlines until "baseurl:"
 instagram_username: kristen.llee
 github_username:  7kristenlee
 
+links:
+ label: Instagram
+ url: "https://www.instagram.com/kristen.llee/"
+
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 theme: jekyll-theme-merlot

@@ -10,4 +10,4 @@ github_username:  7kristenlee
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: 7kristenlee / herring-cove
+remote_theme: 7kristenlee / herring-cove

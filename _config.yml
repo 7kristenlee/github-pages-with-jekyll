@@ -2,11 +2,15 @@ title: Welcome to Kristen's Blog
 author: Kristen Lee
 email: klee2@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
-  this includes my Brag Sheet and Social Media
+  
 
 # social links
 instagram_username: kristen.llee
 github_username:  7kristenlee
+
+photo:
+search-ms:displayname=Search%20Results%20in%20Desktop&crumb=System.Generic.String%3Ascreenshot&crumb=location:C%3A%5CUsers%5Cleekk%5COneDrive%5CDesktop
+
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima

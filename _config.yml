@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 instagram_username: kristen.llee
 github_username:  7kristenlee
 
+# site footer
 links:
  label: Instagram
  url: "https://www.instagram.com/kristen.llee/"

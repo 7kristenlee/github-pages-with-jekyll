@@ -9,4 +9,4 @@ instagram_username: kristen.llee
 github_username:  7kristenlee
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-theme: jekyll-theme-merlot
+theme: minima

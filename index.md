@@ -4,7 +4,7 @@ title: "Kristen Lee"
 # About Me!
 Welcome!! This website will include my brag sheet and social media.
 Hi! I'm Kristen. I'm a sophomore at East Brunswick High School in New Jersey. In my free time, I like to draw and play tennis.
-![Screenshot 2021-05-11 153013](https://user-images.githubusercontent.com/84039666/117877482-9faf1700-b272-11eb-82d6-9241950f161b.png)
+![Screenshot_2021-05-11_153013_50](https://user-images.githubusercontent.com/84039666/118167018-3525e480-b3f4-11eb-8b97-1043761b6dc8.png)
 ==========================================================================<br/>
 # Brag Sheet
 ## Girls Varsity Tennis *(2019 - present)*<br/>

@@ -2,6 +2,9 @@ title: Welcome to Kristen's Blog
 author: Kristen Lee
 email: klee2@ebnet.org
 description: > # this means to ignore newlines until "baseurl:"
+  Email | klee2@ebnet.org<br/>
+  Instagram | @kristen.llee<br/>
+  Github | @7kristenlee/>
   
 
 # social links
@@ -10,4 +13,4 @@ github_username:  7kristenlee
 
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+theme: jekyll-theme-architect

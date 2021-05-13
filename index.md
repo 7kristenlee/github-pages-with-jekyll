@@ -10,13 +10,13 @@ Hi! I'm Kristen. I'm a sophomore at East Brunswick High School in New Jersey. In
 ## Girls Varsity Tennis *(2019 - present)*<br/>
  - 1st and 2nd doubles (2020)<br/>
  
- ## Clarion Newspaper *(2020 - present)*<br/>
+## Clarion Newspaper *(2020 - present)*<br/>
  - Visual Editor<br/>
  
- ## Lions Club International *(2017 - present)*<br/>
+## Lions Club International *(2017 - present)*<br/>
  - Vice President of Highland Park Leo Club<br/>
  
- ## EBTECS *(2020 - present)*<br/>
+## EBTECS *(2020 - present)*<br/>
  
  
  

@@ -1,5 +1,7 @@
 ---
-title: "First Blog"
+title: "Brag Sheet"
 date: 2021-05-11
 ---
-Hi! This is my first blog post. Enjoy.
+- Varsity Tennis
+- Visual Editor of the Clarion
+- Vice President of Highland Park Leo Club
